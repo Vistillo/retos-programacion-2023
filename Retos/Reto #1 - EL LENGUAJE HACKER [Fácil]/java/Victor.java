@@ -18,7 +18,6 @@ public class Reto_1 {
 
 		scanner.close();
 	}
-
 }
 
 class Traductor{
